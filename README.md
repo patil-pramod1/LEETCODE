@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/patil-pramod1/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Database
+|  |
+| ------- |
+| [1280-students-and-examinations](https://github.com/patil-pramod1/LEETCODE/tree/master/1280-students-and-examinations) |
 <!---LeetCode Topics End-->
