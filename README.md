@@ -25,10 +25,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/patil-pramod1/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Database
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/patil-pramod1/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1280-students-and-examinations](https://github.com/patil-pramod1/LEETCODE/tree/master/1280-students-and-examinations) |
+## String
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
