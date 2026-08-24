@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/patil-pramod1/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/patil-pramod1/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/patil-pramod1/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
 ## Simulation
 |  |
 | ------- |
