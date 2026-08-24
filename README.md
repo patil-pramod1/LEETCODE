@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/patil-pramod1/LEETCODE/tree/master/0177-nth-highest-salary) |
+| [0184-department-highest-salary](https://github.com/patil-pramod1/LEETCODE/tree/master/0184-department-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/patil-pramod1/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1280-students-and-examinations](https://github.com/patil-pramod1/LEETCODE/tree/master/1280-students-and-examinations) |
 ## String
