@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/patil-pramod1/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
 ## Greedy
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/patil-pramod1/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
