@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/patil-pramod1/LEETCODE/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/patil-pramod1/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/patil-pramod1/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/patil-pramod1/LEETCODE/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
