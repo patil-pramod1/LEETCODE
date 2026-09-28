@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/patil-pramod1/LEETCODE/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/patil-pramod1/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/patil-pramod1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/patil-pramod1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/patil-pramod1/LEETCODE/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
