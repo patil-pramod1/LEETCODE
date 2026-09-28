@@ -4,10 +4,12 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             s+=nums[i];
         }
+        int i=0;
         int[] result=new int[s.length()];
-        for(int i=0;i<s.length();i++){
-            int temp=Integer.parseInt(s.charAt(i)+"");
+        for(char c : s.toCharArray()){
+            int temp=Character.getNumericValue(c);
             result[i]=temp;
+            i++;
         }
         return result;
     }
