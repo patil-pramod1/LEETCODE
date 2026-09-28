@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/patil-pramod1/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/patil-pramod1/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/patil-pramod1/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/patil-pramod1/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/patil-pramod1/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/patil-pramod1/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/patil-pramod1/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Database
 |  |
