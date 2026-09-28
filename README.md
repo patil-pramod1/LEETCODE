@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/patil-pramod1/LEETCODE/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patil-pramod1/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/patil-pramod1/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patil-pramod1/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
 ## Simulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/patil-pramod1/LEETCODE/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Game Theory
 |  |
 | ------- |
