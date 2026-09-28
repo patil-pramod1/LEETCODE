@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/patil-pramod1/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/patil-pramod1/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/patil-pramod1/LEETCODE/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/patil-pramod1/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/patil-pramod1/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/patil-pramod1/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/patil-pramod1/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/patil-pramod1/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/patil-pramod1/LEETCODE/tree/master/1927-sum-game) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/patil-pramod1/LEETCODE/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
 | ------- |
