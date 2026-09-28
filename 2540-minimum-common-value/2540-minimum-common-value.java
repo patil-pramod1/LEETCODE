@@ -5,14 +5,14 @@ class Solution {
         
         while (i < nums1.length && j < nums2.length) {
             if (nums1[i] == nums2[j]) {
-                return nums1[i]; // Found the smallest common element!
+                return nums1[i]; 
             } else if (nums1[i] < nums2[j]) {
-                i++; // Move the pointer in nums1 because its value is too small
+                i++; 
             } else {
-                j++; // Move the pointer in nums2 because its value is too small
+                j++; 
             }
         }
         
-        return -1; // No common element found
+        return -1; 
     }
 }
